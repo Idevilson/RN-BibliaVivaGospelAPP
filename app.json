@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "BVG",
+    "slug": "BVG",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
